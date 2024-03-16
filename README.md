@@ -17,8 +17,8 @@
 	"ubicacion": "Islas Baleares, España", 
 	"trabajo": "Desarrollador Full Stack", 
 	"educacion": [
-			"Autodidacta en el diseño y desarrollo de aplicaciones web", 
-			"Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web"
+		"Autodidacta en el diseño y desarrollo de aplicaciones web", 
+		"Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web"
 	],
 	"empresa": "Sidetours Incoming Services", 
 	"campos_de_interes": [
