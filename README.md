@@ -55,7 +55,7 @@
 }
 ```
 
-<br />
+<br /> 
 
 ## :bar_chart: Estadísticas GitHub
 <div align="center"><a href="https://github.com/Akeir18"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akeir18&theme=onedark" /></a></div>
