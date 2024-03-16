@@ -9,6 +9,7 @@
 - :heart: &nbsp;Me encanta desarrollar aplicaciones Front-End
 - :speech_balloon: &nbsp;Pregúntame lo que quieras [aquí](https://github.com/Akeir18/Akeir18/issues)
 - :incoming_envelope: &nbsp;Contáctame por correo [aquí](mailto:christianjimenezroche@gmail.com)
+- :open_book: &nbsp;Mi [LinkedIn](https://www.linkedin.com/in/christian-jimenez-roche/)
 
 <br />
 
@@ -46,7 +47,8 @@
 	}, 
 	"actualmente_estudiando": [ 
 		"GitHub", 
-		"VUE" 
+		"VUE",
+		"Axios"
 	], 
 	"hobbies": [ 
 		"Programación", 
