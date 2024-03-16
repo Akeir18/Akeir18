@@ -4,10 +4,10 @@
 <br />
 <br />
 
-- :briefcase:  Desarrollador Full Stack
-- :heart: Me encanta desarrollar aplicaciones Front-End
-- :speech_balloon: Pregúntame lo que quieras [aquí](https://github.com/Akeir18/Akeir18/issues)
-- :incoming_envelope: Contáctame por correo [aquí](mailto:christianjimenezroche@gmail.com)
+- :briefcase: &nbsp;Desarrollador Full Stack
+- :heart: &nbsp;Me encanta desarrollar aplicaciones Front-End
+- :speech_balloon: &nbsp;Pregúntame lo que quieras [aquí](https://github.com/Akeir18/Akeir18/issues)
+- :incoming_envelope: &nbsp;Contáctame por correo [aquí](mailto:christianjimenezroche@gmail.com)
 
 <br />
 
