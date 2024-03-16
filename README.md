@@ -12,42 +12,40 @@
 
 ## :frowning_man:  Sobre mi
 ```yaml
-{
-	nombre: "Christian Jiménez Roche",
-	ubicacion: "Islas Baleares, España",
-	trabajo: "Desarrollador Full Stack",
-	educacion:
-	[
-		"Autodidacta en el diseño y desarrollo de aplicaciones web",
-	    "Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web"
-	],
-	empresa: "Sidetours Incoming Services",
-	campos_de_interes:
-	[
-	    "Desarrollo Front-End",
-	    "UI/UX"
-	],
-	tecnologias:
-	[
-		frontend: [
-		    "HTML",
-		    "CSS",
-		    "SCSS",
-		    "JavaScript",
-		    "jQuery",
-		    "VUE"
-	    ],
-	    backend: [
-			"PHP",
-			"Laravel"    
-	    ],
-	    database: [
-		    "MySQL"
-	    ]
-	],
-  	actualmente_estudiando: ["GitHub", "VUE"],
-	hobbies: ["Programación", "Gaming", "Fotografía", "Comedia"]
-}
+nombre: "Christian Jiménez Roche",
+ubicacion: "Islas Baleares, España",
+trabajo: "Desarrollador Full Stack",
+educacion:
+[
+	"Autodidacta en el diseño y desarrollo de aplicaciones web",
+    "Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web"
+],
+empresa: "Sidetours Incoming Services",
+campos_de_interes:
+[
+    "Desarrollo Front-End",
+    "UI/UX"
+],
+tecnologias:
+[
+	frontend: [
+	    "HTML",
+	    "CSS",
+	    "SCSS",
+	    "JavaScript",
+	    "jQuery",
+	    "VUE"
+    ],
+    backend: [
+		"PHP",
+		"Laravel"    
+    ],
+    database: [
+	    "MySQL"
+    ]
+],
+actualmente_estudiando: ["GitHub", "VUE"],
+hobbies: ["Programación", "Gaming", "Fotografía", "Comedia"]
 ```
 
 <br />
