@@ -2,6 +2,7 @@
 <h3 align="center"> Soy un gran apasionado de la programación español :es:</h3>
 
 <br />
+<br />
 
 - :briefcase: Desarrollador Full Stack
 - :heart: Me encanta desarrollar aplicaciones Front-End
