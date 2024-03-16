@@ -1,6 +1,6 @@
 # :wave: [¡Hola!, soy Christian](https://github.com/Akeir18)
 <br />
-<h3 align="center"> Soy un gran apasionado de la programación español :es:</h3>
+><h3 align="center"> Soy un gran apasionado de la programación español :es:</h3>
 
 <br />
 <br />
