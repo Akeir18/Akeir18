@@ -35,20 +35,21 @@
 			"SCSS", 
 			"JavaScript", 
 			"jQuery", 
-			"VUE"
+			"VUE",
+			"React"
 		], 
 		"backend": [
 			"PHP", 
-			"Laravel" 
+			"Laravel",
+			"Lumen" 
 		], 
 		"database": [ 
-			"MySQL" 
+			"MySQL",
+			"MongoDB" 
 		] 
 	}, 
 	"actualmente_estudiando": [ 
-		"GitHub", 
-		"VUE",
-		"Axios"
+		"Angular"
 	], 
 	"hobbies": [ 
 		"Programación", 
